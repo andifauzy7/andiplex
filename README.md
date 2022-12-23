@@ -20,3 +20,6 @@ This project is a starting point for a Flutter application. Use TMDB to get data
 - Refactoring UI still in progress.
 - Search movies.
 - Bookmark movies.
+
+## Project Structure
+<img src="resources/Clean-Architecture-Flutter-Diagram.webp" width='400'>
