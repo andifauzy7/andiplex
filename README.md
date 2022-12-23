@@ -13,11 +13,12 @@ This project is a starting point for a Flutter application. Use TMDB to get data
 - Clean Architecture.
 - State management use GetX.
 
-## Feature Ongoin Implemented (Improvement Idea)
+## Feature Ongoing Implemented (Improvement Idea)
+- Refactoring UI still in progress.
+- Using shimmer when loading.
 - Offline / Online Data.
 - Darkmode & lightmode.
 - Testing.
-- Refactoring UI still in progress.
 - Search movies.
 - Bookmark movies.
 
