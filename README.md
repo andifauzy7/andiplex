@@ -1,16 +1,22 @@
-# andiplex
+# Andiplex
 
 Movies App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. Use TMDB to get data.
 
-A few resources to get you started if this is your first Flutter project:
+## Feature Implemented
+- Show now playing, upcoming, popular movies.
+- Show movies details.
+- Show movies review.
+- Clean Architecture.
+- State management use GetX.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feature Ongoin Implemented (Improvement Idea)
+- Offline / Online Data.
+- Darkmode & lightmode.
+- Testing.
+- Refactoring UI still in progress.
+- Search movies.
+- Bookmark movies.
